@@ -98,7 +98,7 @@ const Footer = () => {
             <div className="footer__bottom">
               <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                Muhibur Rahman. All rights reserved.
+                <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/natapedro/">Natã Pedro</a> e <a target="_blank" href="linkedin.com/in/ygor-goes">Ygor Goes</a>. All rights reserved. All rights reserved.
               </p>
             </div>
           </Col>
